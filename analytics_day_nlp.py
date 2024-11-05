@@ -1,8 +1,7 @@
 import numpy as np
 import pandas as pd
 
-# some new lines of code
-# maybe we can add more code here
+# ok lets reset life back to normal
 
 from flask import Flask, send_from_directory
 
