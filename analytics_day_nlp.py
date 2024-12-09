@@ -45,7 +45,6 @@ def text_process(mess):
 
 app = Flask(__name__)
 
-
 ## PYWEBIO CODE
 
 pywebio.config(theme='sketchy')
